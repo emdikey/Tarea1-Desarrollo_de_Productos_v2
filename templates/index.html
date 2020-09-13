@@ -1,10 +1,10 @@
 {% extends "base.html" %} {% block content %}
 
-<h2>Sube una imagen de un balón y te diré si es de fútbol o basketball.</h2>
+<h4>Sube una imagen del objeto y te diremos a que deporte corresponde</h4>
 
 <div>
     <form id="upload-file" method="post" enctype="multipart/form-data">
-        <label for="imageUpload" class="upload-label">
+        <label for="imageUpload" class="btn btn-primary btn-lg ">
             Subir
         </label>
         <input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg">
@@ -16,7 +16,7 @@
             </div>
         </div>
         <div>
-            <button type="button" class="btn btn-primary btn-lg " id="btn-predict">¿Qué deporte es?</button>
+            <button type="button" class="btn btn-primary btn-lg " id="btn-predict">¡Dime que deporte es!</button>
         </div>
     </div>
 

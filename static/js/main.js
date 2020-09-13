@@ -45,7 +45,7 @@ $(document).ready(function () {
                 // Get and display the result
                 $('.loader').hide();
                 $('#result').fadeIn(600);
-                $('#result').text(' El modelo predijo que la imagen pertenece al deporte de: ' + data);
+                $('#result').text(' La imagen que subió, correponde al deporte:  ' + data);
                 console.log('Success!');
             },
         });

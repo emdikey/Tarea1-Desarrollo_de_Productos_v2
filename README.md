@@ -1,7 +1,7 @@
 
-# Laboratorio: Publicando un modelo de deep learning en Heroku
+# Tarea 2
 
-__Estudiante: Gorki González__
+__Estudiantes: Roxana Godoy y Gorki González__
 
 > Enlace a Producto de Datos funcional en: https://fastaigrokitarea1.herokuapp.com/
 
@@ -18,4 +18,6 @@ Luego, de un proceso de limpieza y elección de las imágenes que mejor caracter
 
 ## Créditos
 - La construcción del modelo se basa en laboratorio creado por Alonso Astroza para el Magister en Data Science de la Universidad del Desarrollo: https://github.com/aastroza/clase_productodatos_2019_udd
+- La construcción del modelo está basada en las clases de [Francisco Ingham y Jeremy Howard](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb). La aplicacion web está inspirada en el trabajo de [Shankar Jha](https://github.com/shankarj67/Water-classifier-fastai).
+
 - La construcción del modelo está basada en las clases de [Francisco Ingham y Jeremy Howard](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb). La aplicacion web está inspirada en el trabajo de [Shankar Jha](https://github.com/shankarj67/Water-classifier-fastai).
